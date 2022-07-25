@@ -1,7 +1,6 @@
-dwm - dynamic window manager
-============================
-dwm is an extremely fast, small, and dynamic window manager for X.
-
+# Rawley's fork of dwm
+This is my customized fork of (dwm)[https://dwm.suckless.org]. Its lightly patched, and contains the just the necessities.
+If you're looking to use this fork please check out my fork of (st)[https://github.com/rawleyfowler/st] for the best experience.
 
 Requirements
 ------------
@@ -46,3 +45,40 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+About
+
+My customized fork of dwm.
+Topics
+window-manager
+Resources
+Readme
+License
+MIT license
+Stars
+1 star
+Watchers
+1 watching
+Forks
+1 fork
+Contributors 14
+
+    @garbeam
+    @hiltjo
+    @cls
+    @rawleyfowler
+    @anydot
+    @cdown
+    @schachmat
+    @ericpruitt
+    @dcousens
+    @ianremmler
+    @bakkeby
+
++ 3 contributors
+Languages
+
+C 91.9%
+Roff 5.7%
+Makefile 2.3%
+Shell 0.1%
