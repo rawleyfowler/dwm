@@ -1,0 +1,7 @@
+*.o
+dwm
+*.diff
+*.gz
+*.bak
+*.orij
+*.rej
