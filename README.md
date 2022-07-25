@@ -1,6 +1,6 @@
 # Rawley's fork of dwm
-This is my customized fork of (dwm)[https://dwm.suckless.org]. Its lightly patched, and contains the just the necessities.
-If you're looking to use this fork please check out my fork of (st)[https://github.com/rawleyfowler/st] for the best experience.
+This is my customized fork of [dwm](https://dwm.suckless.org). Its lightly patched, and contains the just the necessities.
+If you're looking to use this fork, please check out my fork of [st](https://github.com/rawleyfowler/st), and my [dotfiles](https://github.com/rawleyfowler/dotfiles) for the best experience.
 
 Requirements
 ------------
