@@ -3,5 +3,5 @@ dwm
 *.diff
 *.gz
 *.bak
-*.orij
+*.orig
 *.rej
